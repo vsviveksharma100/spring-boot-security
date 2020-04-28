@@ -1,2 +1,2 @@
 # spring-boot-security
-Spring boot security implementation
+Spring boot security *default* implementation
